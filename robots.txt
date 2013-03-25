@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://akda5id.github.com/sitemap.xml 
