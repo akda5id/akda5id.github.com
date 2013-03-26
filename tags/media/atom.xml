@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Tag: media | TIFI]]></title>
+  <link href="http://akda5id.github.com/tags/media/atom.xml" rel="self"/>
+  <link href="http://akda5id.github.com/"/>
+  <updated>2013-03-25T18:29:16-07:00</updated>
+  <id>http://akda5id.github.com/</id>
+  <author>
+    <name><![CDATA[David]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Gin, Television, and Social Surplus]]></title>
+    <link href="http://akda5id.github.com/blog/2008/04/28/gin-television-and-social-surplus/"/>
+    <updated>2008-04-28T00:00:00-07:00</updated>
+    <id>http://akda5id.github.com/blog/2008/04/28/gin-television-and-social-surplus</id>
+    <content type="html"><![CDATA[<p>Clay Shirky:<blockquote>
+Starting with the Second World War a whole series of things happened--rising GDP per capita, rising educational attainment, rising life expectancy and, critically, a rising number of people who were working five-day work weeks. For the first time, society forced onto an enormous number of its citizens the requirement to manage something they had never had to manage before--free time.</p>
+
+<p>And what did we do with that free time? Well, mostly we spent it watching TV</blockquote></p>
+
+<object type="application/x-shockwave-flash" data="http://blip.tv/scripts/flash/showplayer.swf?enablejs=true&feedurl=http%3A%2F%2Fweb2expo%2Eblip%2Etv%2Frss&file=http%3A%2F%2Fblip%2Etv%2Frss%2Fflash%2F862384%3Freferrer%3Dblip%2Etv%26source%3D1&showplayerpath=http%3A%2F%2Fblip%2Etv%2Fscripts%2Fflash%2Fshowplayer%2Eswf" width="400" height="255" allowfullscreen="true" id="showplayer"><param name="movie" value="http://blip.tv/scripts/flash/showplayer.swf?enablejs=true&feedurl=http%3A%2F%2Fweb2expo%2Eblip%2Etv%2Frss&file=http%3A%2F%2Fblip%2Etv%2Frss%2Fflash%2F862384%3Freferrer%3Dblip%2Etv%26source%3D1&showplayerpath=http%3A%2F%2Fblip%2Etv%2Fscripts%2Fflash%2Fshowplayer%2Eswf" /><param name="quality" value="best" /><embed src="http://blip.tv/scripts/flash/showplayer.swf?enablejs=true&feedurl=http%3A%2F%2Fweb2expo%2Eblip%2Etv%2Frss&file=http%3A%2F%2Fblip%2Etv%2Frss%2Fflash%2F862384%3Freferrer%3Dblip%2Etv%26source%3D1&showplayerpath=http%3A%2F%2Fblip%2Etv%2Fscripts%2Fflash%2Fshowplayer%2Eswf" quality="best" width="400" height="255" name="showplayer" type="application/x-shockwave-flash"></embed></object>
+
+
+
+
+<p>Transcript <a href="http://www.herecomeseverybody.org/2008/04/looking-for-the-mouse.html">here</a>, video <a href="http://blip.tv/file/855937">here</a>.</p>
+
+
+<p>Via <a href="http://daringfireball.net/linked/2008/april#mon-28-shirky">Daring Fireball</a> and <a href="http://www.warrenellis.com/?p=5885">Warren Ellis</a>.</p>
+]]></content>
+  </entry>
+  
+</feed>

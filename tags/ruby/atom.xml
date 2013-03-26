@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Tag: ruby | TIFI]]></title>
+  <link href="http://akda5id.github.com/tags/ruby/atom.xml" rel="self"/>
+  <link href="http://akda5id.github.com/"/>
+  <updated>2013-03-25T18:29:16-07:00</updated>
+  <id>http://akda5id.github.com/</id>
+  <author>
+    <name><![CDATA[David]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Dynamic-Language IDEs]]></title>
+    <link href="http://akda5id.github.com/blog/2006/09/30/dynamic-language-ides/"/>
+    <updated>2006-09-30T00:00:00-07:00</updated>
+    <id>http://akda5id.github.com/blog/2006/09/30/dynamic-language-ides</id>
+    <content type="html"><![CDATA[<p>Posted by Tim Bray to <a href="http://www.tbray.org/ongoing/">ongoing</a>.</p>
+
+<div xmlns="http://www.w3.org/1999/xhtml">I was reading Pat Eyler's  <a href="http://www.linuxjournal.com/node/1000103">interview with the JRuby guys</a> (that's part 2,  <a href="http://on-ruby.blogspot.com/2006/09/new-jruby-interview-part-1.html">Part 1</a> is good too); and I had an idea about building IDEs for dynamic languages like Ruby.</div>
+
+
+
+
+<p>Read more at <a href="http://www.tbray.org/ongoing/When/200x/2006/09/29/Dynamic-IDE">ongoing</a>.</p>
+
+]]></content>
+  </entry>
+  
+</feed>

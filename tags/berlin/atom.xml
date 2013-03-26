@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Tag: berlin | TIFI]]></title>
+  <link href="http://akda5id.github.com/tags/berlin/atom.xml" rel="self"/>
+  <link href="http://akda5id.github.com/"/>
+  <updated>2013-03-25T18:29:16-07:00</updated>
+  <id>http://akda5id.github.com/</id>
+  <author>
+    <name><![CDATA[David]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[I Like America and America Likes Me]]></title>
+    <link href="http://akda5id.github.com/blog/2006/10/04/i-like-america-and-america-likes-me/"/>
+    <updated>2006-10-04T00:00:00-07:00</updated>
+    <id>http://akda5id.github.com/blog/2006/10/04/i-like-america-and-america-likes-me</id>
+    <content type="html"><![CDATA[<p><a href="http://www.theworld.org/wma.php?id=10045">A 5min bit</a> on BBC's The World, reporting on the [corporate] censorship of Jonathan Hexner's video art piece "I Like America and America Likes Me" which was to be displayed on the Axel Springer building in Berlin. You can view the video piece <a href="http://www.theworld.org/audio/jhex.mov">on The World's website</a> (you might want to download that and play in quicktime unless you have a browser window wider than 2016px).</p>
+
+<p>Via David Post at <a href="http://volokh.com/posts/1159896118.shtml">Volokh</a>.</p>
+]]></content>
+  </entry>
+  
+</feed>

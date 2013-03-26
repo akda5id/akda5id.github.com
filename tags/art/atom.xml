@@ -4,7 +4,7 @@
   <title><![CDATA[Tag: art | TIFI]]></title>
   <link href="http://akda5id.github.com/tags/art/atom.xml" rel="self"/>
   <link href="http://akda5id.github.com/"/>
-  <updated>2013-03-25T15:02:14-07:00</updated>
+  <updated>2013-03-25T18:29:16-07:00</updated>
   <id>http://akda5id.github.com/</id>
   <author>
     <name><![CDATA[David]]></name>
@@ -12,6 +12,32 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[testing 2]]></title>
+    <link href="http://akda5id.github.com/blog/2013/03/24/testing-2/"/>
+    <updated>2013-03-24T00:00:00-07:00</updated>
+    <id>http://akda5id.github.com/blog/2013/03/24/testing-2</id>
+    <content type="html"><![CDATA[<p>Included file 'JB/setup' not found in _includes directory</p>
+
+<p>Check it!</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[The house that used to be there]]></title>
+    <link href="http://akda5id.github.com/blog/2009/07/11/the-house-that-used-to-be-there/"/>
+    <updated>2009-07-11T00:00:00-07:00</updated>
+    <id>http://akda5id.github.com/blog/2009/07/11/the-house-that-used-to-be-there</id>
+    <content type="html"><![CDATA[<blockquote><p>From <a href="http://www.marcusbuck.com/">Marcus Buck</a>, imprints of demolished houses left on other houses.</p>
+
+<p><img src="http://s3.ubernerd.org/blog/2009/07/ghost-house.jpg" width="500" height="614" alt="Ghost House" /></p>
+</blockquote>
+
+
+<p>Via <a href="http://www.kottke.org/09/06/the-house-that-used-to-be-there">kottke.org</a>.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[The Flash preloader museum]]></title>
@@ -56,20 +82,6 @@
 
 
 
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Point and Shoot: 1925]]></title>
-    <link href="http://akda5id.github.com/blog/2009/02/04/point-and-shoot-1925/"/>
-    <updated>2009-02-04T00:00:00-08:00</updated>
-    <id>http://akda5id.github.com/blog/2009/02/04/point-and-shoot-1925</id>
-    <content type="html"><![CDATA[<p><a href="http://www.shorpy.com/node/5392?size=_original" title="Point and Shoot: 1925 | Shorpy Photo Archive"><img src="http://s3.ubernerd.org/blog/2009/02/dw.jpg"></a>
-Washington, D.C., circa 1925. "Girls' rifle team of Drexel Institute." National Photo Company Collection glass negative.</p>
-
-<p><a href="http://www.shorpy.com/node/5392?size=_original" title="Point and Shoot: 1925 | Shorpy Photo Archive">Click through</a> for original size un-cropped.</p>
-
-<p>Via <a href="http://daringfireball.net/linked/2009/01/29/drexel-rifle-team">Daring Fireball</a>.</p>
 ]]></content>
   </entry>
   

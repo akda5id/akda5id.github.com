@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Tag: tokyo | TIFI]]></title>
+  <link href="http://akda5id.github.com/tags/tokyo/atom.xml" rel="self"/>
+  <link href="http://akda5id.github.com/"/>
+  <updated>2013-03-25T18:29:16-07:00</updated>
+  <id>http://akda5id.github.com/</id>
+  <author>
+    <name><![CDATA[David]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Tokyo pics]]></title>
+    <link href="http://akda5id.github.com/blog/2008/04/02/tokyo-pics/"/>
+    <updated>2008-04-02T00:00:00-07:00</updated>
+    <id>http://akda5id.github.com/blog/2008/04/02/tokyo-pics</id>
+    <content type="html"><![CDATA[<p><a href="http://picasaweb.google.co.uk/akda5id/Tokyo"><img src="http://lh6.google.co.uk/akda5id/R_R9IJOCq9E/AAAAAAAAARU/6KNaPGJ0R9I/s160-c/Tokyo.jpg" width="160" height="160"></a></p>
+
+<p>That's at <a href="http://tsukemen-gonroku.com">Tsukemen Gonroku</a>, a wonderful cold noodle shop, it's 20m left from exit A5 of Ryogku, go visit next time you are in Tokyo.</p>
+
+<p><a href="http://picasaweb.google.co.uk/akda5id/Tokyo">Here are more pics</a>.</p>
+]]></content>
+  </entry>
+  
+</feed>

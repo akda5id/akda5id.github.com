@@ -4,7 +4,7 @@
   <title><![CDATA[Tag: science | TIFI]]></title>
   <link href="http://akda5id.github.com/tags/science/atom.xml" rel="self"/>
   <link href="http://akda5id.github.com/"/>
-  <updated>2013-03-25T15:02:14-07:00</updated>
+  <updated>2013-03-25T18:29:16-07:00</updated>
   <id>http://akda5id.github.com/</id>
   <author>
     <name><![CDATA[David]]></name>
@@ -12,6 +12,17 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Vague Scientist]]></title>
+    <link href="http://akda5id.github.com/blog/2009/07/19/vague-scientist/"/>
+    <updated>2009-07-19T00:00:00-07:00</updated>
+    <id>http://akda5id.github.com/blog/2009/07/19/vague-scientist</id>
+    <content type="html"><![CDATA[<p><img src="http://s3.ubernerd.org/blog/2009/07/020709.jpg" width="800" /></p>
+
+<p>Via <a href="http://www.wired.com/beyond_the_beyond/2009/07/vague-scientist/">Beyond The Beyond</a>.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Secrets of the Phallus: Why Is the Penis Shaped Like That?]]></title>
@@ -46,6 +57,32 @@
 
 
 
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Earth, observed]]></title>
+    <link href="http://akda5id.github.com/blog/2009/01/15/earth-observed/"/>
+    <updated>2009-01-15T00:00:00-08:00</updated>
+    <id>http://akda5id.github.com/blog/2009/01/15/earth-observed</id>
+    <content type="html"><![CDATA[<blockquote>The Earth Observatory is a website run by NASA's Earth Observing System Project Science Office (EOSPSO). Bringing together imagery from many different satellites and astronaut missions, the website publishes fantastic images with highly detailed descriptions, feature articles and more. [...] Gathered here are some standout photographs from the collections in the Earth Observatory over the past several years.</blockquote>
+
+
+<p>At <a href="http://www.boston.com/bigpicture/2009/01/earth_observed.html">The Big Picture</a>.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[An Engineering Evaluation of SHA-3 candidates]]></title>
+    <link href="http://akda5id.github.com/blog/2008/12/11/an-engineering-evaluation-of-sha-3-candidates/"/>
+    <updated>2008-12-11T00:00:00-08:00</updated>
+    <id>http://akda5id.github.com/blog/2008/12/11/an-engineering-evaluation-of-sha-3-candidates</id>
+    <content type="html"><![CDATA[<blockquote><p>Niels [Ferguson, of the Skein team] has started a page of SHA-3 engineering comparisons.</blockquote>
+
+
+<p>Yes, they are biased, but I still trust the results.</p>
+
+<p>Via <a href="http://www.schneier.com/blog/archives/2008/12/more_sha-3_news.html">Schneier on Security</a>.</p>
 ]]></content>
   </entry>
   

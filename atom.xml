@@ -4,7 +4,7 @@
   <title><![CDATA[TIFI]]></title>
   <link href="http://akda5id.github.com/atom.xml" rel="self"/>
   <link href="http://akda5id.github.com/"/>
-  <updated>2013-03-25T15:02:14-07:00</updated>
+  <updated>2013-03-25T18:29:16-07:00</updated>
   <id>http://akda5id.github.com/</id>
   <author>
     <name><![CDATA[David]]></name>
@@ -12,6 +12,67 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[testing 2]]></title>
+    <link href="http://akda5id.github.com/blog/2013/03/24/testing-2/"/>
+    <updated>2013-03-24T00:00:00-07:00</updated>
+    <id>http://akda5id.github.com/blog/2013/03/24/testing-2</id>
+    <content type="html"><![CDATA[<p>Included file &#8216;JB/setup&#8217; not found in _includes directory</p>
+
+<p>Check it!</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Forecast 2010]]></title>
+    <link href="http://akda5id.github.com/blog/2009/12/28/forecast-2010/"/>
+    <updated>2009-12-28T00:00:00-08:00</updated>
+    <id>http://akda5id.github.com/blog/2009/12/28/forecast-2010</id>
+    <content type="html"><![CDATA[James Howard Kunstler on his excellently titled blog <a href="http://kunstler.com/blog/2009/12/forecast-2010.html">Clusterfuck Nation</a>:
+
+<blockquote>One wild card is how angry the American people might get.  Unlike the 1930s, we are no longer a nation who call each other &#8220;Mister&#8221; and &#8220;Ma&#8217;am,&#8221; where even the down-and-out wear neckties and speak a discernible variant of regular English, where hoboes say &#8220;thank you,&#8221; and where, in short, there is something like a common culture of shared values.  We&#8217;re a nation of thugs and louts with flames tattooed on our necks, who call each other &#8220;motherfucker&#8221; and are skilled only in playing video games based on mass murder. The masses of Roosevelt&#8217;s time were coming off decades of programmed, regimented work, where people showed up in well-run factories and schools and pretty much behaved themselves. In my view, that&#8217;s one of the reasons that the US didn&#8217;t explode in political violence during the Great Depression of the 1930s - the discipline and fortitude of the citizenry.  The sheer weight of demoralization now is so titanic that it is very hard to imagine the people of the USA pulling together for anything beyond the most superficial ceremonies - placing teddy bears on a crash site.  And forget about discipline and fortitude in a nation of ADD victims and self-esteem seekers.</blockquote>
+
+<a href="http://kunstler.com/blog/2009/12/forecast-2010.html">Note, I broke my pub system, so you must click this to read through, will fix my shit sometime after new years and get posting again.</a>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[20,000 Nations Above the Sea]]></title>
+    <link href="http://akda5id.github.com/blog/2009/08/22/20000-nations-above-the-sea/"/>
+    <updated>2009-08-22T00:00:00-07:00</updated>
+    <id>http://akda5id.github.com/blog/2009/08/22/20000-nations-above-the-sea</id>
+    <content type="html"><![CDATA[<blockquote>Friedman wondered: What if you could just moveâ€”not just you, but everything you own, including your home, and, if your neighbors agreed with you, your whole community? What if you could move all of it where no government would bother you at all, and you could make a new, better society?</blockquote>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Vague Scientist]]></title>
+    <link href="http://akda5id.github.com/blog/2009/07/19/vague-scientist/"/>
+    <updated>2009-07-19T00:00:00-07:00</updated>
+    <id>http://akda5id.github.com/blog/2009/07/19/vague-scientist</id>
+    <content type="html"><![CDATA[<img src="http://s3.ubernerd.org/blog/2009/07/020709.jpg" width="800" />
+
+Via <a href="http://www.wired.com/beyond_the_beyond/2009/07/vague-scientist/">Beyond The Beyond</a>.
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[The house that used to be there]]></title>
+    <link href="http://akda5id.github.com/blog/2009/07/11/the-house-that-used-to-be-there/"/>
+    <updated>2009-07-11T00:00:00-07:00</updated>
+    <id>http://akda5id.github.com/blog/2009/07/11/the-house-that-used-to-be-there</id>
+    <content type="html"><![CDATA[<blockquote><p>From <a href="http://www.marcusbuck.com/">Marcus Buck</a>, imprints of demolished houses left on other houses.</p>
+
+<p><img src="http://s3.ubernerd.org/blog/2009/07/ghost-house.jpg" width="500" height="614" alt="Ghost House" /></p>
+</blockquote>
+
+Via <a href="http://www.kottke.org/09/06/the-house-that-used-to-be-there">kottke.org</a>.
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[The Flash preloader museum]]></title>
@@ -78,6 +139,159 @@ Washington, D.C., circa 1925. &#8220;Girls&#8217; rifle team of Drexel Institute
 <a href="http://www.shorpy.com/node/5392?size=_original" title="Point and Shoot: 1925 | Shorpy Photo Archive">Click through</a> for original size un-cropped.
 
 Via <a href="http://daringfireball.net/linked/2009/01/29/drexel-rifle-team">Daring Fireball</a>.
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[One tiny apartment, dozens of rooms]]></title>
+    <link href="http://akda5id.github.com/blog/2009/02/03/one-tiny-apartment-dozens-of-rooms/"/>
+    <updated>2009-02-03T00:00:00-08:00</updated>
+    <id>http://akda5id.github.com/blog/2009/02/03/one-tiny-apartment-dozens-of-rooms</id>
+    <content type="html"><![CDATA[<blockquote>Hong Kong architect Gary Chang has renovated his tiny apartment four times since he&#8217;s owned it. <a href="http://www.nytimes.com/2009/01/15/garden/15hongkong.html?pagewanted=all">The most recent renovation is called &#8220;The Domestic Transformer&#8221;</a>.</blockquote>
+
+<blockquote>Mr. Chang hopes that some of his homeâ€™s innovations might be replicated to help improve domestic life in Hong Kong, which has been troubled in recent years. The population grew by nearly a half-million in just the last 10 years, and between 2003 and 2007, reports of new cases of child, spousal and elder abuse nearly doubled, something social workers attribute in part to new social pressures caused by the cityâ€™s ongoing shortage of space.
+
+â€œItâ€™s a big problem,â€ Mr. Chang said. â€œKilling each other is not uncommon.â€
+
+â€œPeople feel trapped,â€ he said. â€œWe have to find ways to live together in very small spaces.â€
+
+In Mr. Changâ€™s solution, a kind of human-size briefcase, everything can be folded away so that the space feels expansive, like a yoga studio.
+
+The wall units, which are suspended from steel tracks bolted into the ceiling, seem to float an inch above the reflective black granite floor. As they are shifted around, the apartment becomes all manner of spaces â€” kitchen, library, laundry room, dressing room, a lounge with a hammock, an enclosed dining area and a wet bar.</blockquote>
+
+Via <a href="http://www.kottke.org/09/01/one-tiny-apartment-dozens-of-rooms">kottke.org</a>.
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Flat-pack accounting]]></title>
+    <link href="http://akda5id.github.com/blog/2009/02/03/flat-pack-accounting/"/>
+    <updated>2009-02-03T00:00:00-08:00</updated>
+    <id>http://akda5id.github.com/blog/2009/02/03/flat-pack-accounting</id>
+    <content type="html"><![CDATA[<blockquote>The overall set-up of IKEA minimises tax and disclosure, handsomely rewards the founding Kamprad family and makes IKEA immune to a takeover. And if that seems too good to be true, it is: these arrangements are extremely hard to undo. The benefits from all this ingenuity come at the price of a huge constraint on the successors to Ingvar Kamprad, the store&#8217;s founder, to do with IKEA as they see fit.</blockquote>
+
+<blockquote>The parent for all IKEA companiesâ€”the operator of 207 of the 235 worldwide IKEA storesâ€”is Ingka Holding, a private Dutch-registered company. Ingka Holding, in turn, belongs entirely to Stichting Ingka Foundation. This is a Dutch-registered, tax-exempt, non-profit-making legal entity, which was given the shares of Mr Kamprad in 1982. Stichtingen, or foundations, are the most common form of not-for-profit organisation in the Netherlands; tens of thousands of them are registered.
+
+Most Dutch stichtingen are tiny, but if Stichting Ingka Foundation were listed it would be one of the Netherlands&#8217; ten largest companies by market value.</blockquote>
+
+Posted at <a href="http://www.economist.com/business/displaystory.cfm?story_id=6919139">The Economist</a>.
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Mirror, Mirror on the Wall]]></title>
+    <link href="http://akda5id.github.com/blog/2009/01/27/mirror-mirror-on-the-wall/"/>
+    <updated>2009-01-27T00:00:00-08:00</updated>
+    <id>http://akda5id.github.com/blog/2009/01/27/mirror-mirror-on-the-wall</id>
+    <content type="html"><![CDATA[Errol Morris:
+<blockquote>
+During the last week of the Bush administration, I asked the head photo editors of these news services &#8212; Vincent Amalvy (AFP), Santiago Lyon (AP) and Jim Bourg (Reuters) &#8212; to pick the photographs of the president that they believe captured the character of the man and of his administration.
+</blockquote>
+
+Via <a href="http://daringfireball.net/linked/2009/01/26/mirror-mirror">Daring Fireball</a>.
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Auditorium]]></title>
+    <link href="http://akda5id.github.com/blog/2009/01/27/auditorium/"/>
+    <updated>2009-01-27T00:00:00-08:00</updated>
+    <id>http://akda5id.github.com/blog/2009/01/27/auditorium</id>
+    <content type="html"><![CDATA[<blockquote>Auditorium is about the process of discovery and play.</blockquote>
+
+Via <a href="http://www.kottke.org/09/01/auditorium">kottke.org</a>.
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Earth, observed]]></title>
+    <link href="http://akda5id.github.com/blog/2009/01/15/earth-observed/"/>
+    <updated>2009-01-15T00:00:00-08:00</updated>
+    <id>http://akda5id.github.com/blog/2009/01/15/earth-observed</id>
+    <content type="html"><![CDATA[<blockquote>The Earth Observatory is a website run by NASA&#8217;s Earth Observing System Project Science Office (EOSPSO). Bringing together imagery from many different satellites and astronaut missions, the website publishes fantastic images with highly detailed descriptions, feature articles and more. [&#8230;] Gathered here are some standout photographs from the collections in the Earth Observatory over the past several years.</blockquote>
+
+At <a href="http://www.boston.com/bigpicture/2009/01/earth_observed.html">The Big Picture</a>.
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Run Lola Run Lola Run Lola Run Lola Run]]></title>
+    <link href="http://akda5id.github.com/blog/2009/01/03/run-lola-run-lola-run-lola-run-lola-run/"/>
+    <updated>2009-01-03T00:00:00-08:00</updated>
+    <id>http://akda5id.github.com/blog/2009/01/03/run-lola-run-lola-run-lola-run-lola-run</id>
+    <content type="html"><![CDATA[<object width="400" height="300"><param name="allowfullscreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="movie" value="http://vimeo.com/moogaloop.swf?clip_id=285629&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=0&amp;color=&amp;fullscreen=1" /><embed src="http://vimeo.com/moogaloop.swf?clip_id=285629&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=0&amp;color=&amp;fullscreen=1" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="400" height="300"></embed></object><br /><a href="http://vimeo.com/285629">Run Lola Run Lola Run Lola Run Lola Run</a> from <a href="http://vimeo.com/shiffman">shiffman</a> on <a href="http://vimeo.com">Vimeo</a>.
+
+Via <a href="http://www.kottke.org/08/02/time-merge-media">kottke.org</a>.
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Britain From Above]]></title>
+    <link href="http://akda5id.github.com/blog/2008/12/20/britain-from-above/"/>
+    <updated>2008-12-20T00:00:00-08:00</updated>
+    <id>http://akda5id.github.com/blog/2008/12/20/britain-from-above</id>
+    <content type="html"><![CDATA[<blockquote>Britain looks very different from the skies. From a bird&#8217;s eye view of the nation, its workings, cities, landscapes and peoples are revealed and re-discovered in new and extraordinary ways.</blockquote>
+
+Particular nuggets I have found so far include: <a href="http://www.bbc.co.uk/britainfromabove/stories/wild-britain/migratingbirds.shtml" title="BBC - Britain From Above - Stories - Wild Britain - The Great Migration in the Sky">The Great Migration in the Sky</a>, <a href="http://www.bbc.co.uk/britainfromabove/stories/visualisations/taxis.shtml" title="BBC - Britain From Above - Stories - Visualisations - Taxis in London">Taxis in London</a> and <a href="http://www.bbc.co.uk/britainfromabove/stories/visualisations/channel.shtml" title="BBC - Britain From Above - Stories - Visualisations - Ships Crossing the Channel">Ships Crossing the Channel</a>.
+
+Via 5 Best Data Visualization Projects of the Year at <a href="http://flowingdata.com/2008/12/19/5-best-data-visualization-projects-of-the-year/" title="5 Best Data Visualization Projects of the Year | FlowingData">Flowing Data</a> via <a href="http://feeds.feedburner.com/~r/wiredbeyond/~3/489982073/best-infoviz-pr.html">Beyond the Beyond</a>.
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[The Year in Media Errors and Corrections]]></title>
+    <link href="http://akda5id.github.com/blog/2008/12/16/the-year-in-media-errors-and-corrections/"/>
+    <updated>2008-12-16T00:00:00-08:00</updated>
+    <id>http://akda5id.github.com/blog/2008/12/16/the-year-in-media-errors-and-corrections</id>
+    <content type="html"><![CDATA[<a href="http://www.regrettheerror.com/">Regret the Error</a> does their annual round up of best corrections:
+<blockquote>Best Recipe Error
+A report from Reuters:
+
+    Celebrity chef Antony Worrall Thompson has apologized after accidentally recommending a potentially deadly plant in organic salads.
+    The chef and TV presenter said in a magazine article that the weed henbane, also known as stinking nightshade, made an excellent addition to summertime mealsâ€¦
+    Henbane, or Hyoscyamus niger, is toxic and can cause hallucinations, convulsions, vomiting and in extreme cases death.
+    Worrall Thompson, who was discussing his passion for organic foods, had confused the plant with another of a similar name.
+    The magazine â€œHealthy & Organic Livingâ€ printed an urgent warning: â€œHenbane is a very toxic plant and should never be eaten. As always, check with an expert when foraging or collecting wild plants.â€
+    Henbane, a close relative of deadly nightshade, was used by Dr Crippen to kill his wife in 1910, and is thought to have been the main ingredient in the poison Romeo took in Shakespeareâ€™s play Romeo and Juliet.â€
+    The chef had intended to refer to fat hen, a weed rich in vitamin C, that is edible, media reports saidâ€¦
+    Worrall Thompson was reported in the media as saying the confusion had been â€œa bit embarrassing.â€</blockquote>
+
+Via <a href="http://www.kottke.org/08/12/the-year-in-media-errors-and-corrections">kottke.org</a>.
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Fleeting Seating: The Slightly Uncomfortable Chair Collection]]></title>
+    <link href="http://akda5id.github.com/blog/2008/12/16/fleeting-seating-the-slightly-uncomfortable-chair-collection/"/>
+    <updated>2008-12-16T00:00:00-08:00</updated>
+    <id>http://akda5id.github.com/blog/2008/12/16/fleeting-seating-the-slightly-uncomfortable-chair-collection</id>
+    <content type="html"><![CDATA[<img src="http://s3.ubernerd.org/blog/2008/12/gottago.jpg">
+
+<blockquote>â€œI remember when I was a kid,â€ Pelletier explains in the text within the brochure, â€œthere was a rumour â€“ I donâ€™t know if it was true - that at McDonalds, the benches were made so that you wouldnâ€™t spend too much time there.â€ It was from that thought the idea for the Slightly Uncomfortable Chair Collection (SUCC) came.</blockquote>
+
+Via <a href="http://www.kottke.org/08/12/slightly-uncomfortable-chairs">kottke.org</a>.
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Changing New York]]></title>
+    <link href="http://akda5id.github.com/blog/2008/12/16/changing-new-york/"/>
+    <updated>2008-12-16T00:00:00-08:00</updated>
+    <id>http://akda5id.github.com/blog/2008/12/16/changing-new-york</id>
+    <content type="html"><![CDATA[<img src="http://farm4.static.flickr.com/3028/3109782521_58a52d9eb7_o.jpg">
+<blockquote><p>Included in <a href="http://www.flickr.com/photos/nypl/">the NYPL&#8217;s recent addition</a> to the Flickr Commons project is <a href="http://www.flickr.com/photos/nypl/sets/72157610903925533/detail/">Changing New York</a>, a selection of photos taken of NYC in the 1930s by Berenice Abbott as part of a government program for unemployed artists.</blockquote>
+
+Via <a href="http://www.kottke.org/08/12/changing-new-york">kottke.org</a>.
 
 ]]></content>
   </entry>

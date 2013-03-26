@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Tag: first | TIFI]]></title>
+  <link href="http://akda5id.github.com/tags/first/atom.xml" rel="self"/>
+  <link href="http://akda5id.github.com/"/>
+  <updated>2013-03-25T18:29:16-07:00</updated>
+  <id>http://akda5id.github.com/</id>
+  <author>
+    <name><![CDATA[David]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[testing 2]]></title>
+    <link href="http://akda5id.github.com/blog/2013/03/24/testing-2/"/>
+    <updated>2013-03-24T00:00:00-07:00</updated>
+    <id>http://akda5id.github.com/blog/2013/03/24/testing-2</id>
+    <content type="html"><![CDATA[<p>Included file 'JB/setup' not found in _includes directory</p>
+
+<p>Check it!</p>
+]]></content>
+  </entry>
+  
+</feed>
